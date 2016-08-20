@@ -1,2 +1,2 @@
-# 1306hao.github.io
-test github pages
+# 1306hao
+欢迎光临
